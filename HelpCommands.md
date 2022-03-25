@@ -19,4 +19,4 @@ Misc Commands{
 }
 -0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0
 Server Commands.print("
-,purge {NO LIMIT PURGES}")
+,purge {NO LIMIT PURGES}"),
