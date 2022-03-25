@@ -3,24 +3,23 @@ Thank you for choosing CyberBlue as your discord bot!
 Here is the help command that you (or someone else...) worked your little fingertips on that greasy keyboard of yours for!
 Command key (,) ex. ,help  
 
-######
 
        Commands
 Moderation Commands
 
-,ban -- bans a user (permission locked command)
-,kick -- kicks a user (permission locked command) ]
+*,ban -- bans a user (permission locked command)
+*,kick -- kicks a user (permission locked command) ]
 
 ######
 
 Misc Commands
 
-,ping --<Bot's ping>
-,debug --</debug bot>
-,test --<test if bot is working>
+*,ping --<Bot's ping>
+*,debug --</debug bot>
+*,test --<test if bot is working>
 
 ######
 
 Server Commands
 
-,purge {NO LIMIT PURGES}
+*,purge {NO LIMIT PURGES}
