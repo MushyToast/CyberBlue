@@ -8,11 +8,12 @@ Moderation Commands
 
        ,ban -- bans a user (permission locked command)
        ,kick -- kicks a user (permission locked command) ]
-        ```py
-          async def ban(ctx, member: discord.Member, *, reason=None):
+```py
+        async def ban(ctx, member: discord.Member, *, reason=None):
 	           await member.ban(reason=reason)
-	            await ctx.send(f'User {member} has been **obliterated** from this universe')
-        ```   
+	            await ctx.send(f'User {member} has been **obliterated** from this universe
+```
+		   
 
 ######
 
