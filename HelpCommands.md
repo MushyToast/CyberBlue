@@ -16,6 +16,7 @@ Misc Commands
        ,ping --<Bot's ping>
        ,debug --</debug bot>
        ,test --<test if bot is working>
+       ,aboutus --<about us>,,
 
 ######
 
