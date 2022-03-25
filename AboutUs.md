@@ -4,13 +4,14 @@ Thank you for choosing CyberBlue, so we feel that you deserve to know a little b
 ######
 We are Reid (dodger) and Nolan (galactic)
 ######
-    We feel that some discord bots, well, charge too much! That is why we started the CyberBlue bot, in a mission to make an actual good discord bot that doesn't have any features behind a stupid paywall!
+We feel that some discord bots, well, charge too much! That is why we started the CyberBlue bot, in a mission to make an actual good discord bot that doesn't have any features behind a stupid paywall!
 ######
 The only things that will cost money are so small we can list them on this page!
 ######
 1: Donation.
-...
-...
+    
+        https://www.paypal.com/donate/?cmd=_donations&business=reidlmiller@gmail.com&item_name=dodger&currency_code=USD
+
 ######
 That's it! Were you expecting some sort of premium thing?! Haha, never!
 ######
