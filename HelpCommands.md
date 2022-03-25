@@ -4,6 +4,9 @@ Here is the help command that you (or someone else...) worked your little finger
 Command key (,) ex. ,help 
 -------------------------
 0000101010010101001010101 
+
+######
+
        Commands
 0000101010010101001010101
 -------------------------
