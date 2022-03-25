@@ -12,7 +12,8 @@ The only things that will cost money are so small we can list them on this page!
     
         https://www.paypal.com/donate/?cmd=_donations&business=reidlmiller@gmail.com&item_name=dodger&currency_code=USD
 
-## [**DISCORD SUPPORT SERVER INVITE**](https://discord.gg/az7n3TAk5r)****
+## [Discord Server 😎](https://discord.gg/az7n3TAk5r)
+<a href="https://discord.gg/az7n3TAk5r"><img src="https://discord.com/api/guilds/773668217163218944/widget.png?style=banner2"></a>
 
 ######
 That's it! Were you expecting some sort of premium thing?! Haha, never!
