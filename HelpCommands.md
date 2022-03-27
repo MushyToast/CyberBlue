@@ -3,11 +3,13 @@ Thank you for choosing CyberBlue as your discord bot!
 Here is the help command that you (or someone else...) worked your little fingertips on that greasy keyboard of yours for!
 Command key (,) ex. ,help  
 
-  Commands
-Moderation Commands
+  # Commands
 
-       ,ban -- bans a user (permission locked command)
-       ,kick -- kicks a user (permission locked command) ]
+### Moderation Commands
+
+       `,ban <id/mention>` -- bans a user (permission locked command)
+       `,kick <id/mention>` -- kicks a user (permission locked command) 
+       
 ```py
         async def ban(ctx, member: discord.Member, *, reason=None):
 	           await member.ban(reason=reason)
@@ -28,13 +30,13 @@ Misc Commands
 
 Server Commands
 
-       ,purge {NO LIMIT PURGES}
+       `,purge <message size>` -- bulk deletes messages (no limit purges)
 
 ######
 
 Reaction Roles
 
-       ,reactionroles (ADMIN LOCKED)
+       ,reactionroles <message, emojis, role, channel> -- adds a role on reaction (admin permission locked command)
 
 ######
 
