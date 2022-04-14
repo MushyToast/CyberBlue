@@ -64,7 +64,21 @@ Jokes/Memes
 	,leanrecipe
 	,jokes (RANDOM JOKE, HUGE LIBRARY)
 
+######
+Talking Ben
 
+	,talkingben
+
+Example
+######
+	,talikgben print("Hello World!")
+	
+```py
+	@bot.command()
+	async def talkingben(ctx):
+   	    answers = ["Ben: Yess", "Ben: No", "Ben: Ho Ho Ho", "Ben: Ugh"]
+    		await ctx.send("Ben is thinking..")
+```
 
 
 
