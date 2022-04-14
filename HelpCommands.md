@@ -62,6 +62,7 @@ Jokes/Memes
 	,jeston
 	,lean
 	,leanrecipe
+	,jokes (RANDOM JOKE, HUGE LIBRARY)
 
 
 
