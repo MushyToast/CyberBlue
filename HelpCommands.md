@@ -22,19 +22,50 @@ Misc Commands
        ,ping --<Bot's ping>
        ,debug --</debug bot>
        ,test --<test if bot is working>
-       ,aboutus --<about us>,,
+       ,aboutus --<about us
 
 ######
 
 Server Commands
 
+	,servers [Checks current servers the bot is in]
        ,purge {NO LIMIT PURGES}
+       ,annoy (ADMIN LOCKED) - DONT USE FOR BAD INTENTS!
+```py
+
+	@bot.command()
+	@has_permissions(administrator=True)
+		 async def annoy(ctx):
+    			 await ctx.send("@everyone")
+
+		@annoy.error
+		async def annoy(ctx, error):
+ 		   if isinstance(error, commands.MissingPermissions):
+    			await ctx.send("you cant annoy a server that you dont moderate!11!!111")
+
+
+
+```
+
+
 
 ######
 
 Reaction Roles
 
        ,reactionroles (ADMIN LOCKED)
+
+######
+
+Jokes/Memes
+	
+	,jeston
+	,lean
+	,leanrecipe
+
+
+
+
 
 ######
 
