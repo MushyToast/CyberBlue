@@ -35,13 +35,13 @@ Server Commands
 
 	@bot.command()
 	@has_permissions(administrator=True)
-		 async def annoy(ctx):
-    			 await ctx.send("@everyone")
+	     async def annoy(ctx):
+    	     await ctx.send("@everyone")
 	------------------------------------------------------------------
 	@annoy.error
 	async def annoy(ctx, error):
  	   if isinstance(error, commands.MissingPermissions):
-    		await ctx.send("you cant annoy a server that you dont moderate!11!!111")
+    	   await ctx.send("you cant annoy a server that you dont moderate!11!!111")
 
 
 
@@ -77,7 +77,7 @@ Example
 	@bot.command()
 	async def talkingben(ctx):
    	    answers = ["Ben: Yess", "Ben: No", "Ben: Ho Ho Ho", "Ben: Ugh"]
-    		await ctx.send("Ben is thinking..")
+    	    await ctx.send("Ben is thinking..")
 ```
 
 
